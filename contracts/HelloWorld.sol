@@ -1,7 +1,10 @@
 pragma solidity ^0.8.15;
 
 contract HelloWorld
-{
+{   //truffle compile
+
+     //truffle migrate --network ganache
+
     // truffle init
     // truffle development
     //  migrate

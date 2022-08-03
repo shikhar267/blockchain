@@ -6,6 +6,7 @@ contract HelloWorld
      //truffle migrate --network ganache
 
     // truffle init
+    // truffle compile
     // truffle development
     //  migrate
     //  var hw

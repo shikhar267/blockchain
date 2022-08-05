@@ -14,7 +14,7 @@ uint[] dynamic;
 uint dynmaic = new uint[](2);
 fixed
 unit[5] arr5;
-
+structs
 
 field modifier
 public

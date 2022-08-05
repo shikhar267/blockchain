@@ -46,3 +46,18 @@ msg.value - send the amount of the eter send to smart contract
 msg.dat - complete transstion data method call
 msg.sig - method indetifier
 msg.gas
+
+
+address.balance
+address addr = msg.sender
+uint accountbalance = add.balance
+address(this).balance - balnce of this account
+
+
+/// 
+address addr = 
+
+//
+addr.transfer(1000)-revert the transaction if fails
+
+bool succedder = addr.send(1000);

@@ -40,3 +40,9 @@ selfdestruct(beneficiary) - send the remaining funds (smart contracts have funnd
 reject bad transaction
 revert() - uncondition revert a transaction/require() - remaining gas is refunded /assert() - verify internl satae  -uses up all the remaining gas
 
+
+msg.sender - sender of a transation
+msg.value - send the amount of the eter send to smart contract
+msg.dat - complete transstion data method call
+msg.sig - method indetifier
+msg.gas

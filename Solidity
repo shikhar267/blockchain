@@ -23,3 +23,7 @@ fuction accessibelInternally() private {...} // can be called by other method bu
 
 
 Tansactions and calls(don't change states)-view(no change and access fields) and pure(can't access data) output from innput
+
+
+selfdestruct( remove contract from network)
+selfdestruct(beneficiary) - send the remaining funds

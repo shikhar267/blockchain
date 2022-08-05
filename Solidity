@@ -1,11 +1,19 @@
 Types in solidity
 
+value type
 bool flag
 int signed;
 uint 256 bits;
 int8......int256
 string message;
 address userAddress // etherum address
+
+reference type
+array- dynamic and fixed
+uint[] dynamic;
+uint dynmaic = new uint[](2);
+fixed
+unit[5] arr5;
 
 
 field modifier

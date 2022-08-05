@@ -26,4 +26,4 @@ Tansactions and calls(don't change states)-view(no change and access fields) and
 
 
 selfdestruct( remove contract from network)
-selfdestruct(beneficiary) - send the remaining funds
+selfdestruct(beneficiary) - send the remaining funds (smart contracts have funnds associated wiht it

@@ -8,6 +8,12 @@ string message;
 address userAddress // etherum address
 
 
+field modifier
+public
+internal
+private
+no modifier then it is private
+
 acceess modifiers
 
 funtion onlyFromOutside() external { ...} //it can only be called from outside not internally

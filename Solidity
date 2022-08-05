@@ -1,0 +1,8 @@
+Types in solidity
+
+bool flag
+int signed;
+uint 256 bits;
+int8----int256
+string message;
+address userAddress // etherum address

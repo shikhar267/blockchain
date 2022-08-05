@@ -35,3 +35,8 @@ Tansactions and calls(don't change states)-view(no change and access fields) and
 
 selfdestruct( remove contract from network)
 selfdestruct(beneficiary) - send the remaining funds (smart contracts have funnds associated wiht it
+
+
+reject bad transaction
+revert() - uncondition revert a transaction/require() - remaining gas is refunded /assert() - verify internl satae  -uses up all the remaining gas
+

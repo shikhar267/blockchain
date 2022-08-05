@@ -20,3 +20,6 @@ funtion onlyFromOutside() external { ...} //it can only be called from outside n
 funtion accessiblefromabywhr()public {....} // called from anywhere
 fuction accessibelInternally() internal {...} // can be called by other method but not outside
 fuction accessibelInternally() private {...} // can be called by other method but not outside
+
+
+Tansactions and calls(don't change states)-view(no change and access fields) and pure(can't access data) output from innput
